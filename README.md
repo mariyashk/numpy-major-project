@@ -1,1 +1,0 @@
-# numpy-major-project
